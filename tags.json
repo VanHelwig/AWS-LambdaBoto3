@@ -1,0 +1,14 @@
+[
+    {
+        "Key": "Environment",
+        "Value": "Production"
+    },
+    {
+        "Key": "Project",
+        "Value": "JHCApp"
+    },
+    {
+        "Key": "CostCenter",
+        "Value": "JHC007"
+    }
+]
